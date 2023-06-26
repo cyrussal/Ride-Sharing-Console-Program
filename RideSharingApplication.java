@@ -1,9 +1,4 @@
 /*
-MIS350 - DL2
-Group Project Team 3
-05/10/2023
-Cyrus, Andrew, Haleem
-
 This program will allow users to upload posts to a social media platform to ask for a ride to a location.
 At the beginning, the user is given a choice to find, create or see all available posts.
 If looking for a particular post, the user is able to filter by eight different criteria to see if they can find a best match for their needs.
