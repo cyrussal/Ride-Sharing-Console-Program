@@ -1,8 +1,4 @@
 /*
-MIS350 - DL2
-Group Project Team 3
-05/10/2023
-Cyrus, Andrew, Haleem
 This class will hold various information about a post. Posts can be dynamically created by users in the program, but there
 will also be 10 hard coded posts as well. Posts will also hold various methods to perform actions such as displaying their
 information and adding user responses to their post.
